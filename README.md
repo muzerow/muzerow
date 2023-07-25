@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as Game Analyst / Analytics Engineer at Geeky House<br><br>Work Experience:<br><br>💼 Data Programmer at Institute of Russian Literature<br>💼 Business Manager at GamesBoost42<br><br>Education:<br><br>🎓 Bachelor’s degree in Sociology & Social Informatics (Higher School of Economics)<br>🎓 Master’s degree student in Big Data & Machine Learning (ITMO)
+Work Experience:<br><br>💼 Data Analyst at Geeky House<br>💼 Game Analyst at PlayFlock<br>💼 Guest Lecturer at Higher School of Economics<br>💼 Data Programmer at Institute of Russian Literature<br>💼 Business Manager at GamesBoost42<br><br>Education:<br><br>🎓 Bachelor’s degree in Sociology & Social Informatics (Higher School of Economics)<br>🎓 Master’s degree student in Big Data & Machine Learning (ITMO)
 
 
 ## 🌐 Socials:
