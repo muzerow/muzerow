@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 ## 💼 Work Experience
 
@@ -19,18 +19,21 @@ Other work experience:
 * Master’s degree student in Big Data & Machine Learning ([ITMO](https://itmo.ru/))
 * Bachelor’s degree in Sociology & Social Informatics ([Higher School of Economics](https://spb.hse.ru/))
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzerow6) 
+## 🌐 Socials
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muzerow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muzerow&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzerow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzerow6) 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muzerow)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muzerow&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/r-090909?style=for-the-badge&logo=r&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/apache%20airflow-090909?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-090909?style=for-the-badge&logo=firebase&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/clickhouse-090909?style=for-the-badge&logo=clickhouse&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-090909?style=for-the-badge&logo=slack&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-090909?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-090909?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muzerow&icon=0&color=0)](https://visitcount.itsvg.in)
