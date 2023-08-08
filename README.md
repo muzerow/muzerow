@@ -1,6 +1,23 @@
 # 💫 About Me:
-Work Experience:<br><br>💼 Data Analyst at Geeky House<br>💼 Game Analyst at PlayFlock<br>💼 Guest Lecturer at Higher School of Economics<br>💼 Data Programmer at Institute of Russian Literature<br>💼 Business Manager at GamesBoost42<br><br>Education:<br><br>🎓 Bachelor’s degree in Sociology & Social Informatics (Higher School of Economics)<br>🎓 Master’s degree student in Big Data & Machine Learning (ITMO)
 
+## 💼 Work Experience
+
+Main work experience:
+
+* Marketing Analyst at [Karuna](https://karuna.group/) (from 2023)
+* Data Analyst at [Geeky House](https://geeky.house/) (2020-2023)
+
+Other work experience:
+
+* Game Analyst at [PlayFlock](https://playflock.com/) (from 2023)
+* Guest Lecturer at [Higher School of Economics](https://spb.hse.ru/) (2023)
+* Business Manager at [GamesBoost42](https://gamesboost42.com/) (2021)
+* Data Programmer at [Institute of Russian Literature](https://pushkinskijdom.ru/) (2020-2021)
+
+## 🎓 Education
+
+* Master’s degree student in Big Data & Machine Learning ([ITMO](https://itmo.ru/))
+* Bachelor’s degree in Sociology & Social Informatics ([Higher School of Economics](https://spb.hse.ru/))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzerow6) 
@@ -17,5 +34,3 @@ Work Experience:<br><br>💼 Data Analyst at Geeky House<br>💼 Game Analyst at
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muzerow&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
