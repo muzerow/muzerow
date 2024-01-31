@@ -4,7 +4,8 @@
 
 Main work experience:
 
-* Marketing Analyst at [Karuna](https://karuna.group/) (from 2023)
+* Product Analyst at [Yandex](https://yandex.ru/company/) (from 2024)
+* Marketing Analyst at [Karuna](https://karuna.group/) (2023-2024)
 * Data Analyst at [Geeky House](https://geeky.house/) (2020-2023)
 
 Other work experience:
