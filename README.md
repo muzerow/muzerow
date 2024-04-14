@@ -11,7 +11,7 @@ Main work experience:
 Other work experience:
 
 * Lecturer at [TeachMeSkills](https://teachmeskills.ru/) (from 2024)
-* Game Analyst at [PlayFlock](https://playflock.com/) (from 2023)
+* Game Analyst at [PlayFlock](https://playflock.com/) (2023-2024)
 * Guest Lecturer at [Higher School of Economics](https://spb.hse.ru/) (2023)
 * Business Manager at [GamesBoost42](https://gamesboost42.com/) (2021)
 * Data Programmer at [Institute of Russian Literature](https://pushkinskijdom.ru/) (2020-2021)
