@@ -18,7 +18,7 @@ Other work experience:
 
 ## 🎓 Education
 
-* Master’s degree student in Big Data & Machine Learning ([ITMO](https://itmo.ru/))
+* Master’s degree in Big Data & Machine Learning ([ITMO](https://itmo.ru/))
 * Bachelor’s degree in Sociology & Social Informatics ([Higher School of Economics](https://spb.hse.ru/))
 
 ## 🌐 Socials
