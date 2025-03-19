@@ -2,16 +2,18 @@
 
 ## 💼 Work Experience
 
-Main work experience:
+Full-time work experience:
 
 * Product Analyst at [Yandex](https://yandex.ru/company/) (from 2024)
 * Marketing Analyst at [Karuna](https://karuna.group/) (2023-2024)
 * Data Analyst at [Geeky House](https://geeky.house/) (2020-2023)
 
-Other work experience:
+Part-time work experience:
 
+* Game Analyst at [Feather Games](http://www.feather-games.com/) (2024)
 * Lecturer at [TeachMeSkills](https://teachmeskills.ru/) (2024)
 * Game Analyst at [PlayFlock](https://playflock.com/) (2023-2024)
+* Research Analyst at [Xsolla](https://xsolla.com/) (2023)
 * Guest Lecturer at [Higher School of Economics](https://spb.hse.ru/) (2023)
 * Business Manager at [GamesBoost42](https://gamesboost42.com/) (2021)
 * Data Programmer at [Institute of Russian Literature](https://pushkinskijdom.ru/) (2020-2021)
