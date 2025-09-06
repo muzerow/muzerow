@@ -6,7 +6,7 @@ Full-time work experience:
 
 * Product Analyst at [Yandex](https://yandex.ru/company/) (from 2024)
 * Marketing Analyst at [Karuna](https://karuna.group/) (2023-2024)
-* Data Analyst at [Geeky House](https://geeky.house/) (2020-2023)
+* Game Analyst at [Geeky House](https://geeky.house/) (2020-2023)
 
 Part-time work experience:
 
