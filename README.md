@@ -4,12 +4,14 @@
 
 Full-time work experience:
 
-* Product Analyst at [Yandex](https://yandex.ru/company/) (from 2024)
+* Product Analyst at [Avito](https://www.avito.ru/company/) (from 2025)
+* Product Analyst at [Yandex](https://yandex.ru/company/) (2024-2025)
 * Marketing Analyst at [Karuna](https://karuna.group/) (2023-2024)
 * Game Analyst at [Geeky House](https://geeky.house/) (2020-2023)
 
 Part-time work experience:
 
+* BI Analyst at [CyberYozh](https://app.cyberyozh.com/) (2023-2025)
 * Game Analyst at [Feather Games](http://www.feather-games.com/) (2024)
 * Lecturer at [TeachMeSkills](https://teachmeskills.ru/) (2024)
 * Game Analyst at [PlayFlock](https://playflock.com/) (2023-2024)
