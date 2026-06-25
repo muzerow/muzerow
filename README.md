@@ -11,6 +11,7 @@ Full-time work experience:
 
 Part-time work experience:
 
+* Marketing Analyst at [Elephant Games](https://elephant-games.com/) (2025-2026)
 * BI Analyst at [CyberYozh](https://app.cyberyozh.com/) (2023-2025)
 * Game Analyst at [Feather Games](http://www.feather-games.com/) (2024)
 * Lecturer at [TeachMeSkills](https://teachmeskills.ru/) (2024)
